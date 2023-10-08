@@ -35,7 +35,7 @@
 - **Full Stack Developer & Tech Lead** at [Kushki](https://www.kushkipagos.com/)
   - **Period**: June 2018 – January 2020
   - **Tech Stack**: AWS, Serverless, React, Node.js & Go.
-  - **Description**: Initially joining as a Full Stack Developer, I partook in pivotal projects propelling the company to its present-day success. Ascending to a Tech Lead role, I influenced architectural decisions, developing, and deploying numerous microservices and SPAs. Eventually progressed to a Tech Lead, participating in planning, architecture, development, and deployment of several microservices and SPAs. However, my aspirations led me to Germany to study for a master's degree in a new foreign language.
+  - **Description**: Initially joining as a Full Stack Developer, I partook in pivotal projects propelling the company to its present-day success. Eventually progressed to a Tech Lead, participating in planning, architecture, development, and deployment of several microservices and SPAs. However, my aspirations led me to Germany to study for a master's degree in a new foreign language.
    
   
 ## 🎓 Education
