@@ -1,13 +1,5 @@
 # README.md
 
----
-
-## 👋 Hi, I'm Juan
-
-🔧 **Software Engineer** | 📊 ** Junior Data Scientist**
-
----
-
 ## 🌟 Summary
 
 👋 Hi I'm Juan, a software engineer with over 3 years of hands-on experience in full-stack development, primarily focusing on Node.js and Go. I pride myself on crafting efficient, scalable solutions for diverse business needs. Alongside my engineering pursuits, I embarked on an enlightening journey into the world of AI and ML, with a two-year deep dive into machine learning concepts and techniques, through my master's degree in Data Science. I'm proficient in cloud-based solutions with a strong inclination towards AWS technologies, adept in working with microservices architectures, and have comprehensive knowledge of both relational and non-relational databases.
@@ -15,17 +7,13 @@
 ---
 
 ## 🔧 Skills
-- **Programming Languages**: <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-</p>
+- **Programming Languages**: Typescript/Node.js, Python, Go
 - **Front-End**: Angular, React, Vue.js
 - **Back-End**: REST, gRPC, Serverless
 - **Databases**: DynamoDB, Elasticsearch, MongoDB, PostgreSQL
 - **ML Technologies**: Scikit-Learn, PyTorch, TensorFlow, Pandas, Numpy, Matplotlib
 - **Cloud Technologies**: AWS 🌩
-- **Tools**: Git, GitHub, GitLab, Jira, Docker, Jenkins 🛠
+- **Tools**: Git, GitHub, GitLab, Jira, Docker, Jenkins
 - **Professional**: Agile methodologies, Scrum, Test Driven Development, Effective Communication, Team Work, Problem Solving 🤝
 
 ---
@@ -53,10 +41,12 @@
 ## 🎓 Education
 - **Hochschule Anhalt - University of Applied Sciences**
    - **Degree**: Master’s Degree in Data Science
+   - **Period**: October 2021 – October 2023
    - **Thesis**: Applying machine learning to predict truck tour orders
    
 - **Escuela Politécnica Nacional**
    - **Degree**: Engineer’s Degree in Computer and Systems Engineering
+   - **Period**: August 2013 – August 2019
    - **Thesis**: Development of a hybrid algorithm for tourist itineraries recommendations according to user preferences.
 
 ---
