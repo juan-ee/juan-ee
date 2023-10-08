@@ -1,5 +1,3 @@
-# README.md
-
 ## 🌟 Summary
 
 👋 Hi I'm Juan, a software engineer with over 3 years of hands-on experience in full-stack development, primarily focusing on Node.js and Go. I pride myself on crafting efficient, scalable solutions for diverse business needs. Alongside my engineering pursuits, I embarked on an enlightening journey into the world of AI and ML, with a two-year deep dive into machine learning concepts and techniques, through my master's degree in Data Science. I'm proficient in cloud-based solutions with a strong inclination towards AWS technologies, adept in working with microservices architectures, and have comprehensive knowledge of both relational and non-relational databases.
