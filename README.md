@@ -1,6 +1,6 @@
 ## 🌟 Summary
 
-👋 Hi I'm Juan, a software engineer with over 3 years of hands-on experience in full-stack development, primarily focusing on Node.js and Go. I pride myself on crafting efficient, scalable solutions for diverse business needs. Alongside my engineering pursuits, I embarked on an enlightening journey into the world of AI and ML, with a two-year deep dive into machine learning concepts and techniques, through my master's degree in Data Science. I'm proficient in cloud-based solutions with a strong inclination towards AWS technologies, adept in working with microservices architectures, and have comprehensive knowledge of both relational and non-relational databases.
+👋 Hi I'm Juan, a Software Engineer with 4+ years of experience, specializing in cloud technologies such as AWS and Azure, and proficient in programming languages including Node.js, Go, and Python. Recently, I have focused on big data projects using Databricks to develop scalable data pipelines. I hold multiple certifications, such as AWS Solutions Architect – Associate, Microsoft Certified: Azure Fundamentals (AZ-900), and Azure AI Engineer Associate (AI-102). I also have a master’s degree in Data Science, which has enhanced my expertise in machine learning and artificial intelligence, allowing me to deliver innovative, data-driven solutions to complex business challenges.
 
 ---
 
@@ -9,8 +9,8 @@
 - **Front-End**: Angular, React, Vue.js
 - **Back-End**: REST, gRPC, Serverless
 - **Databases**: DynamoDB, Elasticsearch, MongoDB, PostgreSQL
-- **ML Technologies**: Scikit-Learn, PyTorch, TensorFlow, Pandas, Numpy, Matplotlib
-- **Cloud Technologies**: AWS 🌩
+- **Big Data**: Databricks, PySpark
+- **Cloud Technologies**: AWS, Azure 🌩
 - **Tools**: Git, GitHub, GitLab, Jira, Docker, Jenkins
 - **Professional**: Agile methodologies, Scrum, Test Driven Development, Effective Communication, Team Work, Problem Solving 🤝
 
@@ -20,7 +20,7 @@
 
 - **Developer** at [Tata Consultancy Services (TCS)](https://www.tcs.com/)
   - **Period**: September 2023 – Present
-  - **Description**: I recently became a part of the TCS@Grow Trainee Program by TCS, which offers me diverse technological insights to shape my professional journey.
+  - **Description**: Currently, I’m working on an exciting big data project at Bayer, where I leverage Databricks to design, develop, and maintain robust big data pipelines. I thrive on optimizing data processes and delivering insights that drive strategic decision-making.
 
 - **Masterand** at [AMAI GmbH](https://www.am.ai/)
   - **Period**: March 2023 – August 2023
