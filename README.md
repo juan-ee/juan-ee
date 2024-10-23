@@ -1,6 +1,6 @@
 ## 🌟 Summary
 
-👋 Hi I'm Juan, a Software Engineer with 4+ years of experience, specializing in cloud technologies such as AWS and Azure, and proficient in programming languages including Node.js, Go, and Python. Recently, I have focused on big data projects using Databricks to develop scalable data pipelines. I hold multiple certifications, such as AWS Solutions Architect – Associate, Microsoft Certified: Azure Fundamentals (AZ-900), and Azure AI Engineer Associate (AI-102). I also have a master’s degree in Data Science, which has enhanced my expertise in machine learning and artificial intelligence, allowing me to deliver innovative, data-driven solutions to complex business challenges.
+👋 Hi I'm Juan, a Software Engineer with 4+ years of experience, specialized in cloud technologies such as AWS and Azure, and proficient in programming languages including Javascript/Typescript, Go, and Python. Recently, I have focused on big data projects using Databricks to develop scalable data pipelines. I hold multiple certifications, such as AWS Solutions Architect – Associate, Microsoft Certified: Azure Fundamentals (AZ-900), and Azure AI Engineer Associate (AI-102). I also have a master’s degree in Data Science, which has enhanced my expertise in machine learning and artificial intelligence, allowing me to deliver innovative, data-driven solutions to complex business challenges.
 
 ---
 
